@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AcademyApplication</string>
+    <string name="title_first_activity">MainActivity</string>
+    <string name="title_second_activity">Second Activity</string>
+    <string name="title_third_activity">Third Activity</string>
+    <string name="back">Back</string>
+    <string name="back_to_main_activity">Back to A</string>
+    <string name="forward">Forward</string>
 </resources>
