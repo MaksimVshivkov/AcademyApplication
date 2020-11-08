@@ -6,4 +6,10 @@
     <string name="back">Back</string>
     <string name="back_to_main_activity">Back to A</string>
     <string name="forward">Forward</string>
+    <string name="hello_fragment_one">fragment One</string>
+    <string name="hello_fragment_two">fragment Two</string>
+    <string name="hello_fragment_three">fragment Three</string>
+    <string name="button_title_fragment1">Fragment 1</string>
+    <string name="button_title_fragment2">Fragment 2</string>
+    <string name="button_title_fragment3">Fragment 3</string>
 </resources>
